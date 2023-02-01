@@ -1,0 +1,1 @@
+/usr/bin/time --verbose python main.py
